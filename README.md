@@ -1,4 +1,5 @@
 # kanomaly
+https://medium.com/@ronantech/time-series-anomaly-detection-using-kolmogorov-arnold-networks-abd9bbeaa9af
 ### Time Series Anomaly Detection using a Kolmogorov-Arnold Network
 
 Results:
