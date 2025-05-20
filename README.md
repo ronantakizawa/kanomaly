@@ -5,9 +5,9 @@
 
 This is an implementation of Kolmogorov-Arnold Networks (KANs) for detecting anomalies in time series data. KANs offer a robust framework for modeling intricate temporal patterns with enhanced precision, making them particularly effective for anomaly detection tasks.
 
-Google Colab: https://colab.research.google.com/drive/1IO6wNfNIG7Oln8OsugBsZlxxwtbD8jud?usp=sharing
+**Google Colab**: https://colab.research.google.com/drive/1IO6wNfNIG7Oln8OsugBsZlxxwtbD8jud?usp=sharing
 
-Explanatory Article: https://medium.com/@ronantech/time-series-anomaly-detection-using-kolmogorov-arnold-networks-abd9bbeaa9af
+**Article**: https://medium.com/@ronantech/time-series-anomaly-detection-using-kolmogorov-arnold-networks-abd9bbeaa9af
 
 ## Overview
 
